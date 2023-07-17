@@ -1,0 +1,15 @@
+ <!-- jequery plugins -->
+ <script src="{{ asset('template-fe/assets/js/jquery.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/popper.min.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/bootstrap.min.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/owl.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/wow.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/validation.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/jquery.fancybox.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/appear.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/jquery.countTo.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/scrollbar.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/nav-tool.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/TweenMax.min.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/circle-progress.js') }}"></script>
+ <script src="{{ asset('template-fe/assets/js/jquery.nice-select.min.js') }}"></script>
